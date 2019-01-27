@@ -22,7 +22,7 @@ body {
 .header h1 {
 	color: #fff;
 	margin: 0;
-	padding: 50px 0;
+	padding: 100px 0;
 	text-align: center;
 	text-transform: uppercase;
 	font-size: 250%;
@@ -39,7 +39,7 @@ body {
 .project-features h2 {
 	display: block;
 	margin: 0;
-	padding: 70px 0 50px 0;
+	padding: 100px 0 80px 0;
 	font-size: 150%;
 	text-transform: uppercase;
 }
